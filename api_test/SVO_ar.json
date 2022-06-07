@@ -1,0 +1,5731 @@
+{
+    "date": "2022-06-06",
+    "event": "arrival",
+    "interval_schedule": [],
+    "pagination": {
+        "limit": 200,
+        "offset": 100,
+        "total": 273
+    },
+    "schedule": [
+        {
+            "arrival": "2022-06-06T11:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 562",
+                "short_title": "Улан-Удэ — Москва",
+                "title": "Улан-Удэ — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-562_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T11:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 2139",
+                "short_title": "Стамбул — Москва",
+                "title": "Стамбул — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-2139_220606_c26_12",
+                "vehicle": "Airbus А330-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T11:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1895",
+                "short_title": "Ош — Москва",
+                "title": "Ош — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1895_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T11:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1255",
+                "short_title": "Нижнекамск — Москва",
+                "title": "Нижнекамск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1255_220606_c26_12",
+                "vehicle": "Airbus А320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T11:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6532",
+                "short_title": "Алматы — Москва",
+                "title": "Алматы — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6532_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T11:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 418",
+                "short_title": "Бохтар — Москва",
+                "title": "Бохтар — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-418_220606_c2543_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T11:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1189",
+                "short_title": "Волгоград — Москва",
+                "title": "Волгоград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1189_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1391",
+                "short_title": "Сыктывкар — Москва",
+                "title": "Сыктывкар — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1391_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 83,
+                    "codes": {
+                        "iata": "D2",
+                        "icao": null,
+                        "sirena": "Д2"
+                    },
+                    "title": "Северсталь"
+                },
+                "express_type": null,
+                "number": "D2 155",
+                "short_title": "Череповец — Москва",
+                "title": "Череповец — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "D2-155_220606_c83_12",
+                "vehicle": "Bombardier CRJ200"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1483",
+                "short_title": "Красноярск — Москва",
+                "title": "Красноярск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1483_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1525",
+                "short_title": "Горно-Алтайск — Москва",
+                "title": "Горно-Алтайск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1525_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 11",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-11_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1731",
+                "short_title": "Петропавловск-Камчатский — Москва",
+                "title": "Петропавловск-Камчатский — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1731_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1269",
+                "short_title": "Казань — Москва",
+                "title": "Казань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1269_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6284",
+                "short_title": "Южно-Сахалинск — Москва",
+                "title": "Южно-Сахалинск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6284_220606_c8565_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1719",
+                "short_title": "Хабаровск — Москва",
+                "title": "Хабаровск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1719_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1831",
+                "short_title": "Минск — Москва",
+                "title": "Минск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1831_220606_c26_12",
+                "vehicle": "Airbus А320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1411",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1411_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6378",
+                "short_title": "Ижевск — Москва",
+                "title": "Ижевск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6378_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1001",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1001_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T12:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6478",
+                "short_title": "Мурманск — Москва",
+                "title": "Мурманск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6478_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1211",
+                "short_title": "Самара — Москва",
+                "title": "Самара — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1211_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1333",
+                "short_title": "Архангельск — Москва",
+                "title": "Архангельск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1333_220606_c26_12",
+                "vehicle": "Airbus А320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6226",
+                "short_title": "Нижний Новгород — Москва",
+                "title": "Нижний Новгород — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6226_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6546",
+                "short_title": "Пенза — Москва",
+                "title": "Пенза — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6546_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1191",
+                "short_title": "Казань — Москва",
+                "title": "Казань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1191_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 186",
+                "short_title": "Казань — Москва",
+                "title": "Казань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-186_220606_c2543_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 13",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-13_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1759",
+                "short_title": "Волгоград — Москва",
+                "title": "Волгоград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1759_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1705",
+                "short_title": "Владивосток — Москва",
+                "title": "Владивосток — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1705_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T13:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1201",
+                "short_title": "Пермь — Москва",
+                "title": "Пермь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1201_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1015",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1015_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6290",
+                "short_title": "Магадан — Москва",
+                "title": "Магадан — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6290_220606_c8565_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1517",
+                "short_title": "Сургут — Москва",
+                "title": "Сургут — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1517_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 15",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-15_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 2149",
+                "short_title": "Анталья — Москва",
+                "title": "Анталья — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-2149_220606_c26_12",
+                "vehicle": "Airbus А330-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6220",
+                "short_title": "Анадырь — Москва",
+                "title": "Анадырь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6220_220606_c8565_12",
+                "vehicle": "Boeing 777-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6434",
+                "short_title": "Астрахань — Москва",
+                "title": "Астрахань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6434_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1563",
+                "short_title": "Иркутск — Москва",
+                "title": "Иркутск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1563_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1401",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1401_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1715",
+                "short_title": "Хабаровск — Москва",
+                "title": "Хабаровск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1715_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1219",
+                "short_title": "Самара — Москва",
+                "title": "Самара — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1219_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1593",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1593_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6416",
+                "short_title": "Волгоград — Москва",
+                "title": "Волгоград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6416_220606_c8565_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T14:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1231",
+                "short_title": "Уфа — Москва",
+                "title": "Уфа — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1231_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6076",
+                "short_title": "Ульяновск — Москва",
+                "title": "Ульяновск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6076_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 233",
+                "short_title": "Дели — Москва",
+                "title": "Дели — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-233_220606_c26_12",
+                "vehicle": "Airbus А330-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6362",
+                "short_title": "Тюмень — Москва",
+                "title": "Тюмень — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6362_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1139",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1139_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 17",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-17_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1053",
+                "short_title": "Махачкала — Москва",
+                "title": "Махачкала — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1053_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1417",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1417_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6042",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6042_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6388",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6388_220606_c8565_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1735",
+                "short_title": "Петропавловск-Камчатский — Москва",
+                "title": "Петропавловск-Камчатский — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1735_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1463",
+                "short_title": "Новосибирск — Москва",
+                "title": "Новосибирск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1463_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1743",
+                "short_title": "Южно-Сахалинск — Москва",
+                "title": "Южно-Сахалинск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1743_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1703",
+                "short_title": "Владивосток — Москва",
+                "title": "Владивосток — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1703_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T15:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 254",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-254_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1305",
+                "short_title": "Минеральные Воды — Москва",
+                "title": "Минеральные Воды — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1305_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1203",
+                "short_title": "Пермь — Москва",
+                "title": "Пермь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1203_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 196,
+                    "codes": {
+                        "iata": "EO",
+                        "icao": "KAR",
+                        "sirena": "ЕО"
+                    },
+                    "title": "Pegas Fly"
+                },
+                "express_type": null,
+                "number": "EO 1806",
+                "short_title": "Анталья — Москва",
+                "title": "Анталья — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "EO-1806_220606_c196_12",
+                "vehicle": "Boeing 777-200"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1685",
+                "short_title": "Самара — Москва",
+                "title": "Самара — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1685_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1499",
+                "short_title": "Грозный — Москва",
+                "title": "Грозный — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1499_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 19",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-19_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1521",
+                "short_title": "Новый Уренгой — Москва",
+                "title": "Новый Уренгой — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1521_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1003",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1003_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1321",
+                "short_title": "Мурманск — Москва",
+                "title": "Мурманск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1321_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1235",
+                "short_title": "Уфа — Москва",
+                "title": "Уфа — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1235_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T16:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1135",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1135_220606_c26_12",
+                "vehicle": "Airbus A350-900"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 164",
+                "short_title": "Минеральные Воды — Москва",
+                "title": "Минеральные Воды — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-164_220606_c2543_12",
+                "vehicle": "Airbus А321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1421",
+                "short_title": "Челябинск — Москва",
+                "title": "Челябинск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1421_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 772",
+                "short_title": "Махачкала — Москва",
+                "title": "Махачкала — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-772_220606_c2543_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1277",
+                "short_title": "Казань — Москва",
+                "title": "Казань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1277_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6612",
+                "short_title": "Ереван — Москва",
+                "title": "Ереван — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6612_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1339",
+                "short_title": "Минеральные Воды — Москва",
+                "title": "Минеральные Воды — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1339_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 574",
+                "short_title": "Кемерово — Москва",
+                "title": "Кемерово — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-574_220606_c2543_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 21",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-21_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1707",
+                "short_title": "Владивосток — Москва",
+                "title": "Владивосток — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1707_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1367",
+                "short_title": "Ставрополь — Москва",
+                "title": "Ставрополь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1367_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1733",
+                "short_title": "Петропавловск-Камчатский — Москва",
+                "title": "Петропавловск-Камчатский — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1733_220606_c26_12",
+                "vehicle": "Boeing 777-300ER"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1403",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1403_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T17:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 240",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-240_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 83,
+                    "codes": {
+                        "iata": "D2",
+                        "icao": null,
+                        "sirena": "Д2"
+                    },
+                    "title": "Северсталь"
+                },
+                "express_type": null,
+                "number": "D2 157",
+                "short_title": "Апатиты — Москва",
+                "title": "Апатиты — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "D2-157_220606_c83_12",
+                "vehicle": "Bombardier CRJ200"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1267",
+                "short_title": "Орск — Москва",
+                "title": "Орск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1267_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1501",
+                "short_title": "Тюмень — Москва",
+                "title": "Тюмень — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1501_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 699,
+                    "codes": {
+                        "iata": "AI",
+                        "icao": "AIC",
+                        "sirena": null
+                    },
+                    "title": "Air India"
+                },
+                "express_type": null,
+                "number": "AI 195",
+                "short_title": "Дели — Москва",
+                "title": "Дели — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "AI-195_220606_c699_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "D",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 264",
+                "short_title": "Владикавказ — Москва",
+                "title": "Владикавказ — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-264_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6528",
+                "short_title": "Атырау — Москва",
+                "title": "Атырау — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6528_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 331,
+                    "codes": {
+                        "iata": "QR",
+                        "icao": "QTR",
+                        "sirena": null
+                    },
+                    "title": "Qatar Airways"
+                },
+                "express_type": null,
+                "number": "QR 337",
+                "short_title": "Доха — Москва",
+                "title": "Доха — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "QR-337_220606_c331_12",
+                "vehicle": "Boeing 787-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1213",
+                "short_title": "Самара — Москва",
+                "title": "Самара — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1213_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 53",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-53_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1887",
+                "short_title": "Бишкек — Москва",
+                "title": "Бишкек — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1887_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1313",
+                "short_title": "Минеральные Воды — Москва",
+                "title": "Минеральные Воды — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1313_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6230",
+                "short_title": "Нижний Новгород — Москва",
+                "title": "Нижний Новгород — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6230_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1843",
+                "short_title": "Минск — Москва",
+                "title": "Минск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1843_220606_c26_12",
+                "vehicle": "Airbus А321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1461",
+                "short_title": "Новосибирск — Москва",
+                "title": "Новосибирск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1461_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T18:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1117",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1117_220606_c26_12",
+                "vehicle": "Airbus A350-900"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1643",
+                "short_title": "Астрахань — Москва",
+                "title": "Астрахань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1643_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6538",
+                "short_title": "Нур-Султан (Астана) — Москва",
+                "title": "Нур-Султан (Астана) — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6538_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 23",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-23_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1137",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1137_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6604",
+                "short_title": "Баку — Москва",
+                "title": "Баку — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6604_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 120",
+                "short_title": "Архангельск — Москва",
+                "title": "Архангельск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-120_220606_c80_12",
+                "vehicle": "Boeing 737"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1681",
+                "short_title": "Нижнекамск — Москва",
+                "title": "Нижнекамск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1681_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1413",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1413_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 230",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-230_220606_c2543_12",
+                "vehicle": "Boeing 777-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 2143",
+                "short_title": "Анталья — Москва",
+                "title": "Анталья — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-2143_220606_c26_12",
+                "vehicle": "Airbus А330-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 7,
+                    "codes": {
+                        "iata": "B2",
+                        "icao": null,
+                        "sirena": "В2"
+                    },
+                    "title": "Белавиа"
+                },
+                "express_type": null,
+                "number": "B2 977",
+                "short_title": "Минск — Москва",
+                "title": "Минск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "B2-977_220606_c7_12",
+                "vehicle": "Embraer 195"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1291",
+                "short_title": "Казань — Москва",
+                "title": "Казань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1291_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1183",
+                "short_title": "Волгоград — Москва",
+                "title": "Волгоград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1183_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1005",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1005_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1233",
+                "short_title": "Уфа — Москва",
+                "title": "Уфа — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1233_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1123",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1123_220606_c26_12",
+                "vehicle": "Airbus А321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T19:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "D",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 116",
+                "short_title": "Архангельск — Москва",
+                "title": "Архангельск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-116_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1487",
+                "short_title": "Красноярск — Москва",
+                "title": "Красноярск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1487_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1423",
+                "short_title": "Челябинск — Москва",
+                "title": "Челябинск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1423_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 39",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-39_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6530",
+                "short_title": "Актобе — Москва",
+                "title": "Актобе — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6530_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1193",
+                "short_title": "Казань — Москва",
+                "title": "Казань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1193_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1769",
+                "short_title": "Пермь — Москва",
+                "title": "Пермь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1769_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 603,
+                    "codes": {
+                        "iata": "W5",
+                        "icao": "IRM",
+                        "sirena": null
+                    },
+                    "title": "Mahan Airlines"
+                },
+                "express_type": null,
+                "number": "W5 98",
+                "short_title": "Тегеран — Москва",
+                "title": "Тегеран — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "W5-98_220606_c603_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 266",
+                "short_title": "Минеральные Воды — Москва",
+                "title": "Минеральные Воды — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-266_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1553",
+                "short_title": "Новосибирск — Москва",
+                "title": "Новосибирск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1553_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6718",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6718_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1445",
+                "short_title": "Иркутск — Москва",
+                "title": "Иркутск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1445_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 83,
+                    "codes": {
+                        "iata": "D2",
+                        "icao": null,
+                        "sirena": "Д2"
+                    },
+                    "title": "Северсталь"
+                },
+                "express_type": null,
+                "number": "D2 153",
+                "short_title": "Череповец — Москва",
+                "title": "Череповец — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "D2-153_220606_c83_12",
+                "vehicle": "Bombardier CRJ200"
+            }
+        },
+        {
+            "arrival": "2022-06-06T20:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 2137",
+                "short_title": "Стамбул — Москва",
+                "title": "Стамбул — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-2137_220606_c26_12",
+                "vehicle": "Airbus А330-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6360",
+                "short_title": "Тюмень — Москва",
+                "title": "Тюмень — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6360_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 25",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-25_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6394",
+                "short_title": "Магнитогорск — Москва",
+                "title": "Магнитогорск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6394_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6492",
+                "short_title": "Саратов — Москва",
+                "title": "Саратов — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6492_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1341",
+                "short_title": "Архангельск — Москва",
+                "title": "Архангельск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1341_220606_c26_12",
+                "vehicle": "Airbus А320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1259",
+                "short_title": "Уфа — Москва",
+                "title": "Уфа — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1259_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 280",
+                "short_title": "Самара — Москва",
+                "title": "Самара — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-280_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1325",
+                "short_title": "Мурманск — Москва",
+                "title": "Мурманск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1325_220606_c26_12",
+                "vehicle": "Airbus А320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1013",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1013_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6894",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6894_220606_c8565_12",
+                "vehicle": "Boeing 747-400"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1311",
+                "short_title": "Минеральные Воды — Москва",
+                "title": "Минеральные Воды — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1311_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1405",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1405_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1365",
+                "short_title": "Ставрополь — Москва",
+                "title": "Ставрополь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1365_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1215",
+                "short_title": "Самара — Москва",
+                "title": "Самара — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1215_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 304",
+                "short_title": "Владикавказ — Москва",
+                "title": "Владикавказ — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-304_220606_c2543_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1125",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1125_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1293",
+                "short_title": "Ижевск — Москва",
+                "title": "Ижевск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1293_220606_c26_12",
+                "vehicle": "Airbus А320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6350",
+                "short_title": "Нижний Новгород — Москва",
+                "title": "Нижний Новгород — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6350_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1489",
+                "short_title": "Красноярск — Москва",
+                "title": "Красноярск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1489_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T21:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 55",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-55_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:00:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1175",
+                "short_title": "Астрахань — Москва",
+                "title": "Астрахань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1175_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:05:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1717",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1717_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 737,
+                    "codes": {
+                        "iata": "JU",
+                        "icao": "JAT",
+                        "sirena": null
+                    },
+                    "title": "Air Serbia"
+                },
+                "express_type": null,
+                "number": "JU 654",
+                "short_title": "Белград — Москва",
+                "title": "Белград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "JU-654_220606_c737_12",
+                "vehicle": "Airbus А320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1079",
+                "short_title": "Магас — Москва",
+                "title": "Магас — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1079_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:15:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1059",
+                "short_title": "Махачкала — Москва",
+                "title": "Махачкала — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1059_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1187",
+                "short_title": "Волгоград — Москва",
+                "title": "Волгоград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1187_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:20:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 148",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-148_220606_c2543_12",
+                "vehicle": "Airbus А321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:25:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1177",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1177_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 27",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-27_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 2147",
+                "short_title": "Анталья — Москва",
+                "title": "Анталья — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-2147_220606_c26_12",
+                "vehicle": "Airbus А330-300"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1833",
+                "short_title": "Минск — Москва",
+                "title": "Минск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1833_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1011",
+                "short_title": "Калининград — Москва",
+                "title": "Калининград — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1011_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "C",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6606",
+                "short_title": "Баку — Москва",
+                "title": "Баку — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6606_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 2543,
+                    "codes": {
+                        "iata": "N4",
+                        "icao": "NWS",
+                        "sirena": "КЛ"
+                    },
+                    "title": "Nordwind"
+                },
+                "express_type": null,
+                "number": "N4 226",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "N4-226_220606_c2543_12",
+                "vehicle": "Boeing 777-200"
+            }
+        },
+        {
+            "arrival": "2022-06-06T22:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1205",
+                "short_title": "Пермь — Москва",
+                "title": "Пермь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1205_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:10:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1301",
+                "short_title": "Минеральные Воды — Москва",
+                "title": "Минеральные Воды — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1301_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:30:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1129",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1129_220606_c26_12",
+                "vehicle": "Airbus A321"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:35:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1369",
+                "short_title": "Ставрополь — Москва",
+                "title": "Ставрополь — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1369_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1415",
+                "short_title": "Екатеринбург — Москва",
+                "title": "Екатеринбург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1415_220606_c26_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:40:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1195",
+                "short_title": "Казань — Москва",
+                "title": "Казань — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1195_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6994",
+                "short_title": "Архангельск — Москва",
+                "title": "Архангельск — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6994_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:45:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 29",
+                "short_title": "Санкт-Петербург — Москва",
+                "title": "Санкт-Петербург — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-29_220606_c26_12",
+                "vehicle": null
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 26,
+                    "codes": {
+                        "iata": "SU",
+                        "icao": "AFL",
+                        "sirena": "СУ"
+                    },
+                    "title": "Аэрофлот"
+                },
+                "express_type": null,
+                "number": "SU 1605",
+                "short_title": "Самара — Москва",
+                "title": "Самара — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "SU-1605_220606_c26_12",
+                "vehicle": "Airbus A320"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:50:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 80,
+                    "codes": {
+                        "iata": "5N",
+                        "icao": "AUL",
+                        "sirena": "5Н"
+                    },
+                    "title": "Smartavia"
+                },
+                "express_type": null,
+                "number": "5N 208",
+                "short_title": "Махачкала — Москва",
+                "title": "Махачкала — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "5N-208_220606_c80_12",
+                "vehicle": "Boeing 737-800"
+            }
+        },
+        {
+            "arrival": "2022-06-06T23:55:00+03:00",
+            "days": "",
+            "departure": null,
+            "except_days": null,
+            "is_fuzzy": false,
+            "platform": "",
+            "stops": "",
+            "terminal": "B",
+            "thread": {
+                "carrier": {
+                    "code": 8565,
+                    "codes": {
+                        "iata": "FV",
+                        "icao": null,
+                        "sirena": "ФВ"
+                    },
+                    "title": "Россия"
+                },
+                "express_type": null,
+                "number": "FV 6712",
+                "short_title": "Сочи — Москва",
+                "title": "Сочи — Москва",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "plane",
+                "uid": "FV-6712_220606_c8565_12",
+                "vehicle": "Сухой Суперджет 100"
+            }
+        }
+    ],
+    "station": {
+        "code": "s9600213",
+        "popular_title": null,
+        "short_title": null,
+        "station_type": "airport",
+        "station_type_name": "аэропорт",
+        "title": "Шереметьево",
+        "transport_type": "plane",
+        "type": "station"
+    }
+}

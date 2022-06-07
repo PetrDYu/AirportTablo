@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirportTablo</string>
+    <string name="in_button_name">Прилёты</string>
+    <string name="out_button_name">Вылеты</string>
+</resources>
