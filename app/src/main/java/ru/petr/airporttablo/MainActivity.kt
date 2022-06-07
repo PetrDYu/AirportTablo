@@ -203,7 +203,7 @@ fun FlightCard(modifier: Modifier = Modifier, flight: Flight){
             Text(title, fontSize = 20.sp, textAlign = TextAlign.Center)
             val dateString = flight.departure ?: flight.arrival ?: ""
             val date = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX").parse(dateString)?: Date()
-            Text(SimpleDateFormat("HH:mm"n).format(date), fontSize = 20.sp)
+            Text(SimpleDateFormat("HH:mm").format(date), fontSize = 20.sp)
         }
     }
 }
